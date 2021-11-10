@@ -18,7 +18,7 @@ body {
 }
 
 header{
-    background-image: url();
+    background-image: url("https://wallpaperaccess.com/full/733911.jpg");
     background-size: cover;
     background-position: center center;
     color: white;
@@ -110,9 +110,9 @@ footer p {
          display: none;
      }
      footer {
-          background-color: #000;
-     }
-
+            background-color: #000;
+        }
+    }
 
      footer ul {
          flex-direction: column;
